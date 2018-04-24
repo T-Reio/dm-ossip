@@ -1,2 +1,3 @@
 It is fine today.
-2nd text
+2nd text.
+Third text.
